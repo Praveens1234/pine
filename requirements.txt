@@ -1,0 +1,7 @@
+Flask
+openai
+python-dotenv
+pinescript-syntax-checker
+pytest
+pytest-asyncio
+asgiref
